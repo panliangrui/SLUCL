@@ -1,4 +1,4 @@
 # SLUCL
-Supervised and Unsupervised Learning Analysis of Cancer Multi-Omics Data Based on Multi-Head Attention Mechanism
+Multi-Head Attention Mechanism Learning for Cancer New Subtypes and Treatment Based on Cancer Multi-Omics Data
 
 Upcoming
